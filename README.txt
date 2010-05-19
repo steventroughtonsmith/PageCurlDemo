@@ -1,16 +1,16 @@
 PROJECT
-MobileSafariPlugin
+PageCurlDemo
 
 DESCRIPTION
-This is a proof-of-concept project to show it's possible to create iPhoneOS Safari plugins. The code structure is pretty much exactly the same as a Safari plugin on the desktop except it uses UIView instead of NSView.
+This is a proof-of-concept project to show how to use the Page Curl CAFilter API on the iPhone to provide a transition similar to that in iBooks for flipping through pages. You can drag on a page and the curl will follow your finger.
 
-If you build and install this plugin, your browser will report itself Flash capable and show a red dummy view wherever you come across Flash content in any browser using the system WebKit.
+This is the most basic of demo projects, and I haven't spent any time on making it a 1:1 representation of the iBooks implementation. The finger tracking could be made a lot more accurate, for example.
 
-NOTE
-The final 3.2 GM SDK release broke the code I had cribbed from ClickToFlash, but I've left it in the project for reference and also so I can fix it later.
+WARNING
+This code uses private API. You cannot submit any application using this code to the App Store. This is provided for research purposes only.
 
 TO INSTALL
-Project should build on any existing 3.x SDK without issue (I don't see any reasons it wouldn't work on 2.x either). To install, it must be codesigned and placed in the "/System/Library/Internet Plugins" directory of the device (or the corresponding directory in the iPhone Simulator if you're testing on the desktop)
+Build & Go in Xcode - should run without issues on iPhone 3.x onwards.
 
 LICENSE
-Free-for-all. Go wild.
+Free-for-all. Go wild. Sample PDF is printed from Wikipedia so all applicable licenses apply.
