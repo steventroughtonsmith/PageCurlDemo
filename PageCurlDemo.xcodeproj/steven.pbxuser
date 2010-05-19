@@ -1,0 +1,240 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* PageCurlDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1673, 952}}";
+			sepNavSelRange = "{578, 0}";
+			sepNavVisRange = "{0, 578}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PageCurlDemo */ = {
+		activeExec = 0;
+		executables = (
+			B097D1AA1129B5660019E2C4 /* PageCurlDemo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = B097D1AA1129B5660019E2C4 /* PageCurlDemo */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PageCurlDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PageCurlDemo */,
+		);
+		codeSenseManager = B097D1BC1129B5830019E2C4 /* Code sense */;
+		executables = (
+			B097D1AA1129B5660019E2C4 /* PageCurlDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1495,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295824886;
+			PBXWorkspaceStateSaveDate = 295824886;
+		};
+		perUserProjectItems = {
+			B066580411A1EE0F00441980 /* PBXTextBookmark */ = B066580411A1EE0F00441980 /* PBXTextBookmark */;
+			B066581911A1F21B00441980 /* PBXTextBookmark */ = B066581911A1F21B00441980 /* PBXTextBookmark */;
+			B066581A11A1F21B00441980 /* PBXTextBookmark */ = B066581A11A1F21B00441980 /* PBXTextBookmark */;
+			B066581B11A1F21B00441980 /* PBXTextBookmark */ = B066581B11A1F21B00441980 /* PBXTextBookmark */;
+			B066581C11A1F21B00441980 /* PBXTextBookmark */ = B066581C11A1F21B00441980 /* PBXTextBookmark */;
+			B08AC005113069E6001E01C2 /* PlistBookmark */ = B08AC005113069E6001E01C2 /* PlistBookmark */;
+			B097D23E1129CCA40019E2C4 /* PBXBookmark */ = B097D23E1129CCA40019E2C4 /* PBXBookmark */;
+			B097D2401129CCA40019E2C4 /* PBXTextBookmark */ = B097D2401129CCA40019E2C4 /* PBXTextBookmark */;
+			B097D2431129CCA40019E2C4 /* PBXTextBookmark */ = B097D2431129CCA40019E2C4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B097D1BB1129B5830019E2C4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B066580411A1EE0F00441980 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B08AC009113069E6001E01C2 /* WirelessModemSettings.strings */;
+		name = "WirelessModemSettings.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 3366;
+		vrLoc = 0;
+	};
+	B066581911A1F21B00441980 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B097D1C91129B6530019E2C4 /* ReadPDFInternalView.h */;
+		name = "ReadPDFInternalView.h: 14";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	B066581A11A1F21B00441980 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B097D1C81129B6530019E2C4 /* ReadPDFView.m */;
+		name = "ReadPDFView.m: 109";
+		rLen = 0;
+		rLoc = 3187;
+		rType = 0;
+		vrLen = 2239;
+		vrLoc = 2639;
+	};
+	B066581B11A1F21B00441980 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B097D1CA1129B6530019E2C4 /* ReadPDFInternalView.m */;
+		name = "ReadPDFInternalView.m: 26";
+		rLen = 0;
+		rLoc = 653;
+		rType = 0;
+		vrLen = 2026;
+		vrLoc = 0;
+	};
+	B066581C11A1F21B00441980 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PageCurlDemoAppDelegate.m */;
+		name = "PageCurlDemoAppDelegate.m: 33";
+		rLen = 0;
+		rLoc = 578;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	B08AC005113069E6001E01C2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PageCurlDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			SBWidgetApplicationIcon,
+		);
+		name = "/Users/steven/Documents/Programming/Projects/iPhone Projects/PageCurlDemo/PageCurlDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	B08AC009113069E6001E01C2 /* WirelessModemSettings.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = WirelessModemSettings.strings;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/PreferenceBundles/WirelessModemSettings.bundle/French.lproj/WirelessModemSettings.strings;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {23175, 952}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 3366}";
+		};
+	};
+	B097D1AA1129B5660019E2C4 /* PageCurlDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PageCurlDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B097D1BB1129B5830019E2C4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B097D1BC1129B5830019E2C4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B097D1C71129B6530019E2C4 /* ReadPDFView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {453, 312}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{86, 303}";
+		};
+	};
+	B097D1C81129B6530019E2C4 /* ReadPDFView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1673, 2184}}";
+			sepNavSelRange = "{3187, 0}";
+			sepNavVisRange = "{2639, 2239}";
+		};
+	};
+	B097D1C91129B6530019E2C4 /* ReadPDFInternalView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1673, 952}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 328}";
+			sepNavWindowFrame = "{{15, 713}, {1419, 700}}";
+		};
+	};
+	B097D1CA1129B6530019E2C4 /* ReadPDFInternalView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1673, 952}}";
+			sepNavSelRange = "{653, 0}";
+			sepNavVisRange = "{0, 2026}";
+		};
+	};
+	B097D23E1129CCA40019E2C4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B097D1BD1129B63F0019E2C4 /* Apple-wikipedia.pdf */;
+	};
+	B097D2401129CCA40019E2C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PageCurlDemoAppDelegate.m */;
+		name = "PageCurlDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 578;
+		vrLoc = 0;
+	};
+	B097D2431129CCA40019E2C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B097D1C71129B6530019E2C4 /* ReadPDFView.h */;
+		name = "ReadPDFView.h: 12";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 0;
+	};
+}
